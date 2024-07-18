@@ -1,0 +1,32 @@
+/* .box1{
+  border:2px solid black;
+  width: 100px;
+  height: 100px;
+}
+.bdy{
+  width: 100vw;
+  height: 90vh;
+  
+}
+.f{
+  display: flex;
+  width: 100vw;
+  height: 90vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2px;
+}
+.flex{
+  display: flex;
+  gap: 2px;
+}
+.bgGreen{
+  background-color: green;
+}
+.bgOrange{
+  background-color: orange;
+}
+.bgWhite{
+  background-color: #ffff;
+} */
